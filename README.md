@@ -1,23 +1,23 @@
 # Awesome Daggerheart ⚔️❤️
 
-> A curated list of awesome Daggerheart resources, tools, and community projects
+> Une sélection de ressources fantastiques pour Daggerheart
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Daggerheart](https://daggerheart.com/) is a fantasy tabletop roleplaying game of brave heroics and vibrant worlds that are built together with your gaming group. Created by the Darrington Press team, this game emphasizes collaborative storytelling and thrilling adventures.
+[Daggerheart](https://daggerheart.com/) est un jeu de rôle fantasy mettant en scène des héros courageux et des mondes merveilleux que vous construisez avec votre groupe de joueurs. Créé par l'équipe de Darrington Press, ce jeu met l'accent sur la narration collaborative et les aventures palpitantes.
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Character & Game Management](#character--game-management)
-- [Encounter & Combat Tools](#encounter--combat-tools)
-- [Virtual Tabletop Systems](#virtual-tabletop-systems)
-- [Utility Tools](#utility-tools)
-- [Community Projects](#community-projects)
-- [Third-Party Platforms](#third-party-platforms)
-- [Mobile Apps](#mobile-apps)
-- [Community Resources](#community-resources)
-- [Contributing](#contributing)
+- [Ressources officielles](#official-resources)
+- [Personnage et gestion de parties](#character--game-management)
+- [Rencontres et combats](#encounter--combat-tools)
+- [VTT](#virtual-tabletop-systems)
+- [Outils utiles](#utility-tools)
+- [Projets de la communauté](#community-projects)
+- [Plateformes éditeurs tiers](#third-party-platforms)
+- [Applications mobiles](#mobile-apps)
+- [Ressources de la communauté](#community-resources)
+- [Contribuer](#contributing)
 
 ## Official Resources
 
