@@ -37,24 +37,6 @@
 ##  :flower_playing_cards: [Card Creator](https://cardcreator.daggerheart.com/)
 → **Un outil officiel pour personnaliser les cartes du jeu Daggerheart** : vous pouvez modifier du texte, utiliser votre propre illustration, ou même créer une carte entièrement nouvelle.
 
-## Character & Game Management
-
-### Open Source Tools
-- **[DaggerApp](https://github.com/Wallyburg/DaggerApp)** - Generators and Countdown Tracker for Daggerheart
-  - Includes all base items, potions, weapons, and armor from the rulebook
-  - License: GNU General Public License v3.0 (GPLv3)
-  - Actively maintained community tool
-
-- **[Editable character sheets](https://drive.google.com/drive/folders/1RwHLjhRWmO4fyFUyMKOvd7LzVKawTEgo)** - Editable PDF versions of Daggerheart character sheets
-
-### Free to use
-
-- **[Daggerheart brews](https://www.daggerheartbrews.com/)** - Tools for running a Daggerheart game
-  - Card creator and community sharing
-  - Adversary creator and community sharing
-  - DM screen
-- **[Perchance](https://perchance.org/daggerheart-rng)** - Random character generator
-
 ## Encounter & Combat Tools
 
 ### Web-Based Encounter Builders
