@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Ressources officielles](#official-resources)
+- [Ressources officielles](https://github.com/Daguedecoeur/awesome-daggerheart-fr/edit/main/README.md#books-ressources-officielles-daggerheart-)
 - [Personnage et gestion de parties](#character--game-management)
 - [Rencontres et combats](#encounter--combat-tools)
 - [VTT](#virtual-tabletop-systems)
@@ -19,7 +19,7 @@
 - [Ressources de la communauté](#community-resources)
 - [Contribuer](#contributing)
 
-# :books: **Ressources officielles Daggerheart** 🇬🇧
+# :books: **Ressources officielles** 🇬🇧
 *https://www.daggerheart.com*
 
 ## [Contenus à télécharger](https://www.daggerheart.com/downloads/) 
