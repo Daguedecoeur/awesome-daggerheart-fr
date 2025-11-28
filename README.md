@@ -19,9 +19,23 @@
 - [Ressources de la communauté](#community-resources)
 - [Contribuer](#contributing)
 
-## Official Resources
+# :books: **Ressources officielles Daggerheart** 🇬🇧
+*https://www.daggerheart.com*
 
-- **[Daggerheart SRD](https://github.com/seansbox/daggerheart-srd)**
+## [Contenus à télécharger](https://www.daggerheart.com/downloads/) 
+→ **Une bibliothèque de fichiers gratuits à télécharger** : feuilles de personnage, guides, cartes vierges, cartes « print & play », aventures d’initiation, location « Sablewood », errata… bref, tout ce qu’il faut pour démarrer ou enrichir votre partie. 
+
+## :heart_decoration:  [System Reference Document (SRD)](https://www.daggerheart.com/srd/)
+→ **Le cœur des règles du jeu**. Mécanismes de base, création de personnage, système de dés, règles de stress/blessures, adversaires, etc. Utilisable sous la licence (DPCGL) pour créer des contenus compatibles. 
+
+## :gear:  [Homebrew Kit](https://www.daggerheart.com/homebrewkit/)
+→ **Un guide pour créer du contenu maison** : classes, ascendances, aventures, cadres de campagne. Idéal si vous, en tant que MJ ou créateur, voulez personnaliser votre campagne ou publier du matériel compatible. 
+
+## :hourglass_flowing_sand: [The Void](https://www.daggerheart.com/thevoid/)
+→ **Un espace de playtest officiel pour du contenu en développement** : nouvelles classes, ascendances, adversaires, transformations, environnements… Vous pouvez tester, donner votre retour, contribuer à façonner l’avenir du jeu.
+
+##  :flower_playing_cards: [Card Creator](https://cardcreator.daggerheart.com/)
+→ **Un outil officiel pour personnaliser les cartes du jeu Daggerheart** : vous pouvez modifier du texte, utiliser votre propre illustration, ou même créer une carte entièrement nouvelle.
 
 ## Character & Game Management
 
@@ -101,6 +115,8 @@
   - (Details and availability to be confirmed)
 
 ## Community Resources
+
+- **[Daggerheart SRD par Seansbox](https://github.com/seansbox/daggerheart-srd)** 🇬🇧 in Obsidian MD, CSV, and JSON
 
 ### Organization & Planning Tools
 - **[Daggerheart GM Trello Board](https://trello.com/invite/b/681e48f9ff4bdac19e2ed5ac/ATTI50aba1088d68a363eabfbb088a8611b04160AB21/Daggerheart%20DM%20Hub)** - Comprehensive GM Hub for Daggerheart
